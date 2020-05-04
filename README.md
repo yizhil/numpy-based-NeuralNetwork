@@ -1,1 +1,1 @@
-# numpy-based-NeuralNetwork
+# implement nn based only on np
